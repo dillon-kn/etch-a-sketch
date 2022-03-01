@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #6ab8e6;
+    background-color: #d1c2be;
 }
 
 .title {
@@ -56,4 +56,8 @@ button {
 button:hover {
     cursor: pointer;
     border: 2px solid #222222;
+}
+
+.colored {
+    background-color: #222222;
 }
